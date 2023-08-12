@@ -1,4 +1,4 @@
 # AirBnB_clone
 
-# AUTHORS
+## AUTHORS
 Prince Tobit & Gilbert Kamau
